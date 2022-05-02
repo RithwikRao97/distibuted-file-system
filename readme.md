@@ -1,0 +1,1 @@
+Creating git repository and setting up in my local
